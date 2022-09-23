@@ -164,7 +164,7 @@ div {
   cursor: pointer;
 }
 
-div.center {
+.center {
   text-align: center;
   line-height: 1.6rem;
 }
