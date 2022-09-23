@@ -183,3 +183,21 @@ img {
   height: auto;
   margin-bottom: 20px;
 }
+
+.order-btn {
+  background: #222;
+  border: 1px solid #222;
+  padding: 16px;
+  color: white;
+  text-decoration: none;
+}
+
+.order-center {
+  display: flex;
+  justify-content: center;
+  font-family: sans-serif;
+}
+
+.credit-card-text {
+  margin-bottom: 60px;
+}
