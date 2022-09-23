@@ -100,32 +100,27 @@ nav ul {
   list-style-type: none;
 }
 
-nav ul:hover {
-  color: white;
-}
-
 nav li {
   display: inline-block;
   margin-right: 16px;
   margin-bottom: 16px;
-  border: 1px solid #c0cec4;
   background: #c0cec4;
   border-radius: 2px;
   padding: 12px;
   cursor: pointer;
+  color: #222;
 }
 
 nav li:hover {
-  background: #222;
-  border: 1px solid #222;
   color: white;
+  background: #222;
 }
 
 nav a {
   text-decoration: none;
 }
 
-nav a:hover {
+a:hover {
   color: white;
 }
 
@@ -157,4 +152,9 @@ div {
 
 .footer-space {
   height: 350px;
+}
+
+.address {
+  margin-bottom: 40px;
+  font-family: sans-serif;
 }
