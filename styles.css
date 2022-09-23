@@ -158,3 +158,13 @@ div {
   margin-bottom: 40px;
   font-family: sans-serif;
 }
+
+.home-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+div.center {
+  text-align: center;
+  line-height: 1.6rem;
+}
